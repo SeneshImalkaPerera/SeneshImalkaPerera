@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeneshImalkaPerera
 - 👀 I’m interested in Software engineering and Cyber Security
 - 🌱 I’m currently learning Full Stack Development
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
