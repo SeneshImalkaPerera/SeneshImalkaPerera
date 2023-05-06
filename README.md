@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning Full stack development **Meta Front End and Back End Developer courses**
 
+- 👨‍💻 All of my projects are available at [seneshimalkaperera.github.io](seneshimalkaperera.github.io)
+
+- 📫 How to reach me **hpsimakaperera@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imalka-perera-515a2a203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imalka-perera-515a2a203" height="30" width="40" /></a>
@@ -21,6 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seneshimalkaperera&show_icons=true&locale=en" alt="seneshimalkaperera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seneshimalkaperera&" alt="seneshimalkaperera" /></p>
+
 <!---
 SeneshImalkaPerera/SeneshImalkaPerera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
